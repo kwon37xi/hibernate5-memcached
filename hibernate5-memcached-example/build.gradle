@@ -1,0 +1,6 @@
+dependencies {
+    compile project(':hibernate5-memcached-spymemcached-adapter')
+    compile "com.h2database:h2:1.4.178"
+
+    testCompile "org.hibernate:hibernate-ehcache:${hibernateVersion}"
+}
