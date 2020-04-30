@@ -1,4 +1,4 @@
-# hibernate5-memcached
+# hibernate5-memcached - DEPRECATED, DO NOT USE
 Memcached 2nd level cache for Hibernate 5
 
 # Requirements
